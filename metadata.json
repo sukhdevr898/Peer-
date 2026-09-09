@@ -1,0 +1,6 @@
+{
+  "name": "Peer-to-Peer Chat & File Sharing",
+  "description": "Secure end-to-end encrypted peer-to-peer chat and file transfer with local network detection, offline mode, and secure relayed public connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
